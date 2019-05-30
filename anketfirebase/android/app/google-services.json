@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "189301963004",
+    "firebase_url": "https://anket-2857e.firebaseio.com",
+    "project_id": "anket-2857e",
+    "storage_bucket": "anket-2857e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189301963004:android:29147f8d8d57db49",
+        "android_client_info": {
+          "package_name": "com.example.anketfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189301963004-bpd2mfvomtvcruel3pv3n364agjc5lsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2OIXOkg3AER6HEu7ihwenipvxtV1INrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189301963004-bpd2mfvomtvcruel3pv3n364agjc5lsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
